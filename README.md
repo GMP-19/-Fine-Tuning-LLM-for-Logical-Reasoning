@@ -1,4 +1,4 @@
-readme = """# Fine-Tuning LLM for Logical Reasoning
+**Fine-Tuning LLM for Logical Reasoning**
 
 ## Project Overview
 
