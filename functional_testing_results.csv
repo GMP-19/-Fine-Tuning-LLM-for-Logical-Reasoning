@@ -1,0 +1,4 @@
+Test Case,Expected Result,Model Result,Status
+Human mortality,Yes,Yes,Passed
+Bird characteristics,Yes,Yes,Passed
+Rain and wet ground,The ground becomes wet,The ground becomes wet,Passed

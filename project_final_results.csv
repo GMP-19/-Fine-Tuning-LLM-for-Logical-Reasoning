@@ -1,0 +1,8 @@
+Parameter,Value
+Base Model,Meta-Llama-3.1-8B-Instruct
+Dataset,LogiQA
+Training Epochs,1
+Training Steps,922
+Test Samples,651
+Test Accuracy,46.08%
+Macro F1-Score,0.4587
